@@ -9,4 +9,4 @@ Next I started reading the Project Instructions and tried to start thinking abou
 
 Realizing as I read this that I need to learn more about HTML5 Canvas information. Not quite familiar with that yet but I hope I will learn it as I go here.
 
-For today I spent time getting setup on GitHub, becoming familiar with the game requirements and getting ready to start writing code. Tomorrow I will spend trying to write some pseudocode and see if I can spark some progress.
+For today I spent time getting my Arcade Game project setup on GitHub. So I cloned the project, setup my own repo, etc. Then I spent some time becoming familiar with the game requirements and instructions (there’s a lot) and getting ready to start writing code. Tomorrow I will spend trying to write some pseudocode and see if I can spark some progress.

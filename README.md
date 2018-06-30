@@ -1,5 +1,6 @@
 # Grow With Google 100 Days of Code Journal Entries, 2018
 
+
 ### Day 1 - June 27th (Wednesday)
 First I headed over to the Classic Arcade Game Clone Project Details page and read over the "How do I complete this project" page. Cloned the game repo and then pushed it up to my GitHub site.
 

@@ -24,3 +24,6 @@ EDIT: I went ahead and started taking the free HTML5 Canvas Basics course to see
 
 ### Day 3 - June 29th (Friday)
 Today I spent some time helping one of my fellow scholars figure out how to use Git in Windows. Personally I had never used it in Windows before so I had to figure it out. I installed Git for Windows and then showed her how to open Git Bash and told her to edit her .bash_profile.sh file using either VI or VIM editor. That seems to have done the trick. Now I learned something new. I normally just use Git from within the Mac terminal.
+
+### Day 4 - June 30th (Saturday)
+So today I am continuing on with then HTML5 Canvas Basics course. Working on building this meme generator so I’ll need a web server for this. I already have a LAMP server running in a VirtualBox VM. But now I’m building a MAMP server according to the instructions in the course.

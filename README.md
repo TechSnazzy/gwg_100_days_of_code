@@ -60,5 +60,5 @@ Happy 4th of July! 🇺🇸 I continued on with the Pong arcade game (https://ww
 Picking back up on the Arcade Game. So far I have the basic functions working from a few days ago but I hadn't been committing anything to Github yet. So today I just restarted the project so I could properly make my Git commits and write README documentation as I go.
 
 ### Day 10 - 7/6 (Friday)
-![Day 10](img/d10.jpg)
+![Day 10](img/d10.png)
 I ended up spending all day finishing up the Arcade Game. The player moves around the board, doesn't go out of bounds, bugs move across the screen, collisions = start over, player makes it to the water = game winning modal pops up, comments are written -- yeah, I'd say I have done the bare basics. Now I have submitted and let's see if I pass. 🤞

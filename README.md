@@ -66,4 +66,5 @@ I ended up spending all day finishing up the Arcade Game. The player moves aroun
 UPDATE: I passed! Hooray! Now on to the next thing...
 
 ### Day 11 - 7/7 (Saturday)
+![Day 11](img/d11.jpg)
 Now that I passed Project 3 (Whew!!), time to move on to 'build tools'. I've heard of Grunt and Gulp before but never actually used either one. So for today, I have installed `Node.js`, `NPM` and `Gulp`. After that, I spent some time learning how to use Gulp and setting up my `package.json` file.

@@ -72,3 +72,6 @@ Now that I passed Project 3 (Whew!!), time to move on to 'build tools'. I've hea
 ### Day 12 - 7/8 (Sunday)
 ![Day 12](img/d12.jpg)
 Spending all day working on learning Gulp (in preparation for the upcoming Project 4 which is the Feed Reader project). So far I have installed `Node.js` with `NPM`. Then I installed Gulp globally, create a project directory and initialized it with NPM. Now I'm learning how to create gulp tasks and more. Turns out the Udacity course on Gulp wasn't great so I am using this other one from Udemy that a fellow scholar told me about.
+
+### Day 13 - 7/9 (Monday)
+Continued on learning about Gulp. I now have a `gulpfile.js` setup with a web server and watch tasks. So my edits update automatically in the browser.

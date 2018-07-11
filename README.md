@@ -1,5 +1,6 @@
 # Grow With Google: 100 Days of Code, 2018
 
+[Check out my Instagram Site for Photos](https://www.instagram.com/TechSnazzyLLC/)
 
 ### Day 1 - 6/27 (Wednesday)
 First I headed over to the Classic Arcade Game Clone Project Details page and read over the "How do I complete this project" page. Cloned the game repo and then pushed it up to my GitHub site.

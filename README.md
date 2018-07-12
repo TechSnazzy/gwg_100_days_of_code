@@ -68,3 +68,6 @@ Continued on learning about Gulp. I now have a `gulpfile.js` setup with a web se
 
 ### Day 14 - 7/10 (Tuesday)
 Today I'm chuggin along learning how to do unit testing in Lesson 22, "Writing Test Suites". I am using Jasmine and writing tests to make sure my code does what it says it will do.
+
+### Day 15 - 7/11 (Wednesday)
+Finally finished all the lessons for Section 3. So all that's left to do is write my Feed Reader code and I can move on to Section 4 (can't wait!) So for today I am spending time just trying to wrap my head around this project. I'm reading through the Project Rubric, going over the `feedreader.js` and `app.js` files and trying to get an understanding of what I need to do here.

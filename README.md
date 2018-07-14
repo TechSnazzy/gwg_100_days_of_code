@@ -72,5 +72,8 @@ Today I'm chuggin along learning how to do unit testing in Lesson 22, "Writing T
 ### Day 15 - 7/11 (Wednesday)
 Finally finished all the lessons for Section 3. So all that's left to do is write my Feed Reader code and I can move on to Section 4 (can't wait!) So for today I am spending time just trying to wrap my head around this project. I'm reading through the Project Rubric, going over the `feedreader.js` and `app.js` files and trying to get an understanding of what I need to do here.
 
-### Day 16 - 7/11 (Thursday)
+### Day 16 - 7/12 (Thursday)
 Continuing on with the Feed Reader project. Decided I didn't understand this well enough at all so going through lessons 21 and 22 one more time and practicing with Describe (Suite -- a group of related specs) and It (Spec -- a container used to perform a test).
+
+### Day 17 - 7/13 (Friday the 13th)
+Spending more time learning unit testing. Still kinda not entirely getting this but I am watching YouTube videos and trying to figure this out. Happy Friday the 13th! 💀 Also I tweeted to Mozilla to see if I could volunteer. Figured it would be the best way to learn. Hopefully they will let me! 🤞

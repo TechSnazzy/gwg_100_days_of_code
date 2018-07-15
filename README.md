@@ -77,3 +77,6 @@ Continuing on with the Feed Reader project. Decided I didn't understand this wel
 
 ### Day 17 - 7/13 (Friday the 13th)
 Spending more time learning unit testing. Still kinda not entirely getting this but I am watching YouTube videos and trying to figure this out. Happy Friday the 13th! 💀 Also I tweeted to Mozilla to see if I could volunteer. Figured it would be the best way to learn. Hopefully they will let me! 🤞
+
+### Day 18 - 7/14 (Saturday)
+Spent the day working on Project 4 (the Feed Reader for unit testing with Jasmine). I think I am getting this unit testing stuff now. My Feed Reader now passes 6 tests successfully using Jasmine. Just one more to go and then I should be about ready to submit. Still need to write comments, README file, etc. 

@@ -85,4 +85,4 @@ Spent the day working on Project 4 (the Feed Reader for unit testing with Jasmin
 Spent the morning finishing up the last spec in the Feed Reader project. Completed all 7 tests, I have my README updated and comments written. Everything seems good so I submitted it and now I wait.🤞 Looking forward to getting started on section 4. I guess now the real fun begins.
 
 ### Day 20 - 7/16 (Monday)
-Good-bye sections 1-3 and Hello section 4. Today I am starting section 4 but getting familiar with the requirements for building the cat clicker. I hope I can write it in vanilla JS.
+Good-bye sections 1-3 and Hello section 4. Today I am starting section 4 by getting familiar with the requirements for building the cat clicker. I hope I can write it in vanilla JS.

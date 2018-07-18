@@ -86,3 +86,8 @@ Spent the morning finishing up the last spec in the Feed Reader project. Complet
 
 ### Day 20 - 7/16 (Monday)
 Good-bye sections 1-3 and Hello section 4. Today I am starting section 4 by getting familiar with the requirements for building the cat clicker. I hope I can write it in vanilla JS.
+
+### Day 21 - 7/17 (Tuesday)
+I created the first version of my cat clicker. It's pretty basic. You just click the cat.
+Playable version: https://techsnazzy.com/cat-clicker/index.html
+GitHub version: https://github.com/TechSnazzy/cat-clicker

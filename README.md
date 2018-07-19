@@ -91,3 +91,6 @@ Good-bye sections 1-3 and Hello section 4. Today I am starting section 4 by gett
 I created the first version of my cat clicker. It's pretty basic. You just click the cat.
 Playable version: https://techsnazzy.com/cat-clicker/index.html
 GitHub version: https://github.com/TechSnazzy/cat-clicker
+
+### Day 22 - 7/18 (Wednesday)
+Expanded on the cat clicker app. I now have 2 cats. First I replaced the hard coded HTML H1 element text with jQuery that adds the heading text. Then I also updated the CSS file so that it has some responsive BootStrap classes in it to keep the images lined up. Now I need to recode the whole thing so that it will take at least 5 cats and I will use Function Closures to make it work.

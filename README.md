@@ -94,3 +94,6 @@ GitHub version: https://github.com/TechSnazzy/cat-clicker
 
 ### Day 22 - 7/18 (Wednesday)
 Expanded on the cat clicker app. I now have 2 cats. First I replaced the hard coded HTML H1 element text with jQuery that adds the heading text. Then I also updated the CSS file so that it has some responsive BootStrap classes in it to keep the images lined up. Now I need to recode the whole thing so that it will take at least 5 cats and I will use Function Closures to make it work.
+
+### Day 23 - 7/19 (Thursday)
+I decided that doing the cat clicker premium app was going to take too long so I’m moving ahead in the lesson with MVO (model, view, octopus 🐙 ). Once I get this down then I can revisit CCP (since I need it for the app anyway).

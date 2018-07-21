@@ -97,3 +97,6 @@ Expanded on the cat clicker app. I now have 2 cats. First I replaced the hard co
 
 ### Day 23 - 7/19 (Thursday)
 I decided that doing the cat clicker premium app was going to take too long so I’m moving ahead in the lesson with MVO (model, view, octopus 🐙 ). Once I get this down then I can revisit CCP (since I need it for the app anyway).
+
+### Day 24 - 7/20 (Friday)
+I'm all over the place today. Currently working on "Identify the MVO in New App". So I'm studying this Udacity Retain app. Trying to find the connections between everything. I also realized I never did the Styling part in Section 3 so I went back and did that. I swear there is about 10 lifetimes of material to cover in this course. Good times! 😜

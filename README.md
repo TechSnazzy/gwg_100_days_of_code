@@ -100,3 +100,6 @@ I decided that doing the cat clicker premium app was going to take too long so I
 
 ### Day 24 - 7/20 (Friday)
 I'm all over the place today. Currently working on "Identify the MVO in New App". So I'm studying this Udacity Retain app. Trying to find the connections between everything. I also realized I never did the Styling part in Section 3 so I went back and did that. I swear there is about 10 lifetimes of material to cover in this course. Good times! 😜
+
+### Day 25 - 7/21 (Caturday)
+Day 25. I am one quarter of the way through 100 Days of Code. Today I am back to working on Cat Clicker Premium. I have been studying and coding along with the CCP solution. Then I will start it over and write my own code based on what I am learning.

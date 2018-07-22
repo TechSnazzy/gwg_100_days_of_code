@@ -103,3 +103,6 @@ I'm all over the place today. Currently working on "Identify the MVO in New App"
 
 ### Day 25 - 7/21 (Caturday)
 Day 25. I am one quarter of the way through 100 Days of Code. Today I am back to working on Cat Clicker Premium. I have been studying and coding along with the CCP solution. Then I will start it over and write my own code based on what I am learning.
+
+### Day 26 - 7/22 (Sunday)
+Continuing on with the Cat Clicker Premium app. After spending plenty of time studying the solution, I think I have a good understanding of how this works. So now I am starting from scratch building out my own Cat Clicker Pro app. It's like putting together a puzzle except you have to first create all the puzzle pieces and then put them together.

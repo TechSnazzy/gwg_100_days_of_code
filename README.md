@@ -106,3 +106,6 @@ Day 25. I am one quarter of the way through 100 Days of Code. Today I am back to
 
 ### Day 26 - 7/22 (Sunday)
 Continuing on with the Cat Clicker Premium app. After spending plenty of time studying the solution, I think I have a good understanding of how this works. So now I am starting from scratch building out my own Cat Clicker Pro app. It's like putting together a puzzle except you have to first create all the puzzle pieces and then put them together.
+
+### Day 27 - 7/23 (Monday)
+Continuing on with Section 4, Lesson 2. I decided to put Cat Clicker Premium Pro on the back burner for now and move ahead with the lessons -- which is ok. I think I understand separation of concerns well enough to move ahead. I will just come back to it later. That said, now I'm learning about creating Promises.

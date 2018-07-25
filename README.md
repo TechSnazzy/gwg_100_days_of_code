@@ -109,3 +109,15 @@ Continuing on with the Cat Clicker Premium app. After spending plenty of time st
 
 ### Day 27 - 7/23 (Monday)
 Continuing on with Section 4, Lesson 2. I decided to put Cat Clicker Premium Pro on the back burner for now and move ahead with the lessons -- which is ok. I think I understand separation of concerns well enough to move ahead. I will just come back to it later. That said, now I'm learning about creating Promises.
+
+### Day 28 - 7/24 (Tuesday)
+```js
+new Promise(function(resolve) {
+  console.log('Day 28');
+  resolve();
+  console.log('Today I am learning how to write Promises');
+}).then(function() {
+  console.log('First, I will learn to Wrap them like this.');
+  resolve();
+});
+```

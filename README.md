@@ -113,9 +113,9 @@ Continuing on with Section 4, Lesson 2. I decided to put Cat Clicker Premium Pro
 ### Day 28 - 7/24 (Tuesday)
 ```js
 new Promise(function(resolve) {
-  console.log('Day 28');
+  console.log('Day 28:');
   resolve();
-  console.log('Today I am learning how to write Promises');
+  console.log('Today I am learning how to write Promises.');
 }).then(function() {
   console.log('First, I will learn to Wrap them like this.');
 });

@@ -118,6 +118,5 @@ new Promise(function(resolve) {
   console.log('Today I am learning how to write Promises');
 }).then(function() {
   console.log('First, I will learn to Wrap them like this.');
-  resolve();
 });
 ```

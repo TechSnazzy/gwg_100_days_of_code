@@ -120,3 +120,31 @@ new Promise(function(resolve) {
   console.log('First, I will learn to Wrap them like this.');
 });
 ```
+
+### Day 29 - 7/25 (Wednesday)
+```js
+/*
+ * Really diving in deeper with Promises now.
+ * I promise to create the cat clicker app.
+ * If I complete the cat clicker app then I earn a gold star.
+ * If I don't complete it, then I will be flushed down the toilet.
+ * Good luck to me! Looks like I'm Thening things now. Progress!
+ */
+
+let myCatClickerAppPromise = new Promise(function(resolve, reject) {
+  let appCompleted = true;
+  let name = 'Sean';
+
+  if (appCompleted) {
+    resolve(name);
+  } else {
+    reject(name);
+  }
+})
+.then(function(yay) {
+  alert(yay + ' earned a gold star!');
+})
+.catch(function(boo) {
+  alert(boo + ' will be flushed down the toilet!');
+});
+```

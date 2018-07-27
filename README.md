@@ -148,3 +148,6 @@ let myCatClickerAppPromise = new Promise(function(resolve, reject) {
   alert(boo + ' will be flushed down the toilet!');
 });
 ```
+
+### Day 30 - 7/26 (Thursday)
+Things are getting pretty crazy. Working on the Exoplanet Explorer app with native JavaScript Promises. Wrapping XHR's and working on Fetch API's. Fun!

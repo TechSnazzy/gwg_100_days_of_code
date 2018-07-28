@@ -151,3 +151,6 @@ let myCatClickerAppPromise = new Promise(function(resolve, reject) {
 
 ### Day 30 - 7/26 (Thursday)
 Things are getting pretty crazy. Working on the Exoplanet Explorer app with native JavaScript Promises. Wrapping XHR's and working on Fetch API's. Fun!
+
+### Day 31 - 7/27 (Friday)
+It's good to keep working on the basics. I took it for granted that I know what a callback function is. Turns out, I really don't. So today I really focused and dove in deeper with callback functions. I totally get it now. So first I create a function. Give it an argument, do something and then call the function. Then I add a function to the callback, add another argument to the first function and call it within the function and joila, I have a callback function. I get it now.

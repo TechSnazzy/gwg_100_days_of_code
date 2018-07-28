@@ -154,3 +154,6 @@ Things are getting pretty crazy. Working on the Exoplanet Explorer app with nati
 
 ### Day 31 - 7/27 (Friday)
 It's good to keep working on the basics. I took it for granted that I know what a callback function is. Turns out, I really don't. So today I really focused and dove in deeper with callback functions. I totally get it now. So first I create a function. Give it an argument, do something and then call the function. Then I add a function to the callback, add another argument to the first function and call it within the function and joila, I have a callback function. I get it now.
+
+### Day 32 - 7/28 (Saturday)
+This morning I'm taking a deeper dive into the exoplanet explorer. First time around I couldn't get the text string to show up on the page. Now I have it showing for both the XHR and the Fetch. Took me a few rounds of cloning the repo, installing gulp/bower and then writing the necessary code.

@@ -157,3 +157,6 @@ It's good to keep working on the basics. I took it for granted that I know what 
 
 ### Day 32 - 7/28 (Saturday)
 This morning I'm taking a deeper dive into the exoplanet explorer. First time around I couldn't get the text string to show up on the page. Now I have it showing for both the XHR and the Fetch. Took me a few rounds of cloning the repo, installing gulp/bower and then writing the necessary code.
+
+### Day 33 - 7/29 (Sunday)
+Spent the whole day covering an array of topics [reviewed JavaScript Hoisting, reviewed difference between var, let and const, continued diving deeper into learning Promises with the Exoplanet Explorer lessons, and did a ton of practice with fundamentals]. Next up: AJAX.

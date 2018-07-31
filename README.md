@@ -160,3 +160,23 @@ This morning I'm taking a deeper dive into the exoplanet explorer. First time ar
 
 ### Day 33 - 7/29 (Sunday)
 Spent the whole day covering an array of topics [reviewed JavaScript Hoisting, reviewed difference between var, let and const, continued diving deeper into learning Promises with the Exoplanet Explorer lessons, and did a ton of practice with fundamentals]. Next up: AJAX.
+
+### Day 34 - 7/30 (Monday)
+Today I realized I needed to get better with click event listeners. So I cobbled together a small test project and ended up creating a single button that I use to click and add an image to the page. I made sure to add the image inside a specific div rather than just splattering it at the end of the HTML.
+```js
+// 1. add a click event listener to the button
+myButton.addEventListener('click', function() {
+  // 3. call the function
+  addImageToDiv();
+});
+
+// 2. create function to add an image to the div
+function addImageToDiv() {
+    // 4. create a new img element and call it "myImage"
+    let myImage = document.createElement("img");
+    myImage.setAttribute("src", "img/it.jpg");
+    myImage.setAttribute("alt", "IT Support");
+    // 5. select the "myImages" div and append the myImage element to it
+    document.getElementById("myImages").appendChild(myImage);
+}
+```

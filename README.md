@@ -180,3 +180,6 @@ function addImageToDiv() {
     document.getElementById("myImages").appendChild(myImage);
 }
 ```
+
+### Day 35 - 7/31 (Tuesday)
+Last day of July but first day learning AJAX with XHR. I didn't write too much code today but I did go through the lessons and learned quite a bit. Refresher with `GET` and `POST` and getting ready to setup the starter code for the AJAX course. I'll save that for tomorrow though.

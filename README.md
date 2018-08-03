@@ -186,3 +186,6 @@ Last day of July but first day learning AJAX with XHR. I didn't write too much c
 
 ### Day 36 - 8/1 (Wednesday)
 Wow, that was a tough lesson. I think I get the gist of it but if I had to explain what just happened I don't think I could. I'm speaking about the AJAX with XHR. AJAX with jQuery is next. Hopefully that will be a bit easier to understand.
+
+### Day 37 - 8/2 (Thursday)
+Ok so the whole day has been pretty rough but I'm determined to end it on a good note. Blah blah blah, I've been working on AJAX with XHR. Then I was about to go into AJAX with jQuery. But just so that I could make sure I got this, I broke this down to bare basics and realized that I can't just practice this on a page without having the page load from a web server. Otherwise, Chrome throws "Cross origin requests are only support for blah blah blah". So you either work on Firefox or in my case, I'm creating a small Gulp static web server template thing that I can easily just whip up anytime I need a quick web server. So that's what I worked on and now it works great and tomorrow I will get back to AJAX with jQuery.

@@ -192,3 +192,6 @@ Ok so the whole day has been pretty rough but I'm determined to end it on a good
 
 ### Day 38 - 8/3 (Friday)
 Maybe not a big deal for most but for me this is awesome. First, I have `Node.js`, `NPM` and `Gulp` installed. I also have my `gulpfile.js` and `server.js` files written with all the needed tasks. Then I have a plain HTML file with a few things like a `div` and a `button` and stuff in it and a JavaScript file with some jQuery code in it. So I run the Gulp static server, launch the page as `localhost:1337` (it's the best port to run it on) and boom, there it is. Page served. Then click the button, it runs the jQuery which replaces the text on the page with the text it `load()`'s from `textfile.txt` and that's it. Pretty awesome! It's the most basic version of AJAX with jQuery (that I know how to do) but it works.
+
+### Day 39 - 8/4 (Saturday)
+Spending all morning working on learning frameworks. This course keeps getting more and more insane every day. It's mind boggling how much fun stuff there is to learn.

@@ -195,3 +195,6 @@ Maybe not a big deal for most but for me this is awesome. First, I have `Node.js
 
 ### Day 39 - 8/4 (Saturday)
 Spending all morning working on learning frameworks. This course keeps getting more and more insane every day. It's mind boggling how much fun stuff there is to learn.
+
+### Day 40 - 8/5 (Sunday)
+Today was a little busy so didn't get to do as much code as I would've liked. But for today, I continued playing around with Backbone events. Working on the UdaciMeals project.

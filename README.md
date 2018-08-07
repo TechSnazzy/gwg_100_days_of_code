@@ -198,3 +198,6 @@ Spending all morning working on learning frameworks. This course keeps getting m
 
 ### Day 40 - 8/5 (Sunday)
 Today was a little busy so didn't get to do as much code as I would've liked. But for today, I continued playing around with Backbone events. Working on the UdaciMeals project.
+
+### Day 41 - 8/6 (Monday)
+Tonight I spent my time working through the rest of Lesson 9 (Backbone events, Routing and hashchange & pushState). Finally finished that marathon. Now onward to Angular finally!

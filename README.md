@@ -201,3 +201,6 @@ Today was a little busy so didn't get to do as much code as I would've liked. Bu
 
 ### Day 41 - 8/6 (Monday)
 Tonight I spent my time working through the rest of Lesson 9 (Backbone events, Routing and hashchange & pushState). Finally finished that marathon. Now onward to Angular finally!
+
+### Day 42 - 8/7 (Tuesday)
+Today I am working on Angular. So far I am scaffolding with Yeoman and setting up my first Angular app. Fun!

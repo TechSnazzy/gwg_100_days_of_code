@@ -205,5 +205,8 @@ Tonight I spent my time working through the rest of Lesson 9 (Backbone events, R
 ### Day 42 - 8/7 (Tuesday)
 Today I am working on Angular. So far I am scaffolding with Yeoman and setting up my first Angular app. Fun!
 
-### Day 43 = 8/7 (Wednesday)
+### Day 43 - 8/8 (Wednesday)
 Well today I didn't get too much done actually. Every day there are many forces working against me to get this course done. But I did manage to at least squeeze in my 30 minutes of code by going back over the Angular lessons regarding scope and Controllers.
+
+### Day 44 - 8/9 (Thursday)
+Trying to work through Angular Directives now. This is a bit tougher than the Controllers and Templates. Didn't quite get this done tonight but I'm sure I can get it finished tomorrow.

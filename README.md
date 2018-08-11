@@ -213,3 +213,6 @@ Trying to work through Angular Directives now. This is a bit tougher than the Co
 
 ### Day 45 - 8/10 (Friday)
 I have to admit, having a lot of fun working on this but at the same time, haven't been able to solve this Angular Directives quiz yet (the Angular Directives struggle is real!) However, I think I'm half way there and I'm determined. Plus there is also the Study Jam tomorrow - so maybe I can find answers there. Anyway...
+
+### Day 46 - 8/11 (Saturday)
+Wow, spent most of today finishing up the Angular lesson. That was a doozy. By no means could I just sit down and start writing an application in Angular at this point -- but I do definitely undertand it better now. This is something I plan to work on more when the course is done. Now on to Ember...

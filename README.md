@@ -210,3 +210,6 @@ Well today I didn't get too much done actually. Every day there are many forces 
 
 ### Day 44 - 8/9 (Thursday)
 Trying to work through Angular Directives now. This is a bit tougher than the Controllers and Templates. Didn't quite get this done tonight but I'm sure I can get it finished tomorrow.
+
+### Day 45 - 8/10 (Friday)
+I have to admit, having a lot of fun working on this but at the same time, haven't been able to solve this Angular Directives quiz yet. However, I think I'm half way there and I'm determined. Plus there is also the Study Jam tomorrow - so maybe I can find answers there. Anyway...

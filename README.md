@@ -216,3 +216,6 @@ I have to admit, having a lot of fun working on this but at the same time, haven
 
 ### Day 46 - 8/11 (Saturday)
 Wow, spent most of today finishing up the Angular lesson. That was a doozy. By no means could I just sit down and start writing an application in Angular at this point -- but I do definitely undertand it better now. This is something I plan to work on more when the course is done. Now on to Ember...
+
+### Day 47 - 8/12 (Sunday)
+Started messing around with Ember. I now have Ember installed and I created the udaciMeals app using Ember. This sure makes things a lot easier than trying to create it all manually.

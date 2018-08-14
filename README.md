@@ -219,3 +219,6 @@ Wow, spent most of today finishing up the Angular lesson. That was a doozy. By n
 
 ### Day 47 - 8/12 (Sunday)
 Started messing around with Ember. I now have Ember installed and I created the udaciMeals app using Ember. This sure makes things a lot easier than trying to create it all manually.
+
+### Day 48 - 8/13 (Monday)
+Today has been a big Ember day. I am very much enjoying learning this but I have to say, getting these quizzes to pass was kinda difficult. First you have to clone the project, then `npm install` then `bower install` then `ember g route blah blah blah` whichever routes you want to create and then go in and modify the required files. Then you cross your fingers and hope it works -- which it usually doesn't. So you do it again and again until it passes. Ok great!

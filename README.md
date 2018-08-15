@@ -222,3 +222,6 @@ Started messing around with Ember. I now have Ember installed and I created the 
 
 ### Day 48 - 8/13 (Monday)
 Today has been a big Ember day. I am very much enjoying learning this but I have to say, getting these quizzes to pass was kinda difficult. First you have to clone the project, then `npm install` then `bower install` then `ember g route blah blah blah` whichever routes you want to create and then go in and modify the required files. Then you cross your fingers and hope it works -- which it usually doesn't. So you do it again and again until it passes. Ok great!
+
+### Day 49 - 8/14 (Tuesday)
+Pressing on with Ember today. Went over Handlebars.js templating language. I think my brain is going to asplode from syntax overload. Anyway, I guess they came up with the name because the curly braces look like sideways handlebar mustaches? See --> { Alrighty then! Hopefully get this Ember wrapped up before the week is over.

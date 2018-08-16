@@ -225,3 +225,6 @@ Today has been a big Ember day. I am very much enjoying learning this but I have
 
 ### Day 49 - 8/14 (Tuesday)
 Pressing on with Ember today. Went over Handlebars.js templating language. I think my brain is going to asplode from syntax overload. Anyway, I guess they came up with the name because the curly braces look like sideways handlebar mustaches? See --> { Alrighty then! Hopefully get this Ember wrapped up before the week is over.
+
+### Day 50 - 8/15 (Wednesday)
+Today is a bit of a milestone. It's the middle of the week, I finished Ember and Offline and now I'm about to start Service Worker. And I've been coding for at least 30 minutes, every day for 50 days. Halfway there to 100 straight days of writing code. And now, I will go get started on Service Worker.

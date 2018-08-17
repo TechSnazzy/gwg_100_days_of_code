@@ -228,3 +228,6 @@ Pressing on with Ember today. Went over Handlebars.js templating language. I thi
 
 ### Day 50 - 8/15 (Wednesday)
 Today is a bit of a milestone. It's the middle of the week, I finished Ember and Offline and now I'm about to start Service Worker. And I've been coding for at least 30 minutes, every day for 50 days. Halfway there to 100 straight days of writing code. And now, I will go get started on Service Worker.
+
+### Day 51 - 8/16 (Thursday)
+Just trying to wrap my head around this whole Service Worker thing. It seems the goal here is to provide "offline-first" access to web applications.

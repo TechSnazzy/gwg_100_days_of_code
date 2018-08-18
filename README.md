@@ -231,3 +231,6 @@ Today is a bit of a milestone. It's the middle of the week, I finished Ember and
 
 ### Day 51 - 8/16 (Thursday)
 Just trying to wrap my head around this whole Service Worker thing. It seems the goal here is to provide "offline-first" access to web applications.
+
+### Day 52 - 8/17 (Friday)
+I think I'm finally starting to get my head wrapped around these service workers. So a page loads, then you add the code to register the SW, then refresh the page, but nothing happens, so you to go Yahoo.com, then go back and something happens because by then the SW has taken control of things which means it's intercepting requests and stuff.

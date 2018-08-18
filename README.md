@@ -234,3 +234,6 @@ Just trying to wrap my head around this whole Service Worker thing. It seems the
 
 ### Day 52 - 8/17 (Friday)
 I think I'm finally starting to get my head wrapped around these service workers. So a page loads, then you add the code to register the SW, then refresh the page, but nothing happens, so you to go Yahoo.com, then go back and something happens because by then the SW has taken control of things which means it's intercepting requests and stuff.
+
+### Day 53 - 8/18 (Saturday)
+Continuing on with the Service Worker lesson. Today I'm learning how to hijack requests. For example, I can return a fetch of a jpg for a 404 error page. So if from Dev Tools in Canary, with "update on reload" enabled in the application tab, I can refresh the page and get a picture of Dr. Evil as I'm testing this code for a page not found error. Ok, now onward to learning caching and serving assets.

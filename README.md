@@ -237,3 +237,6 @@ I think I'm finally starting to get my head wrapped around these service workers
 
 ### Day 53 - 8/18 (Saturday)
 Continuing on with the Service Worker lesson. Today I'm learning how to hijack requests. For example, I can return a fetch of a jpg for a 404 error page. So if from Dev Tools in Canary, with "update on reload" enabled in the application tab, I can refresh the page and get a picture of Dr. Evil as I'm testing this code for a page not found error. Ok, now onward to learning caching and serving assets.
+
+### Day 54 - 8/19 (Sunday)
+Today I took a break from the lessons to work on my own personal website a bit. My site is hosted on GitHub Pages, domain registered through Google Domains and SSL provided from CloudFlare. So I'm working on creating documentation for how to setup the site this way. Also, hoping to move over to Let's Encrypt instead of CloudFlare soon.

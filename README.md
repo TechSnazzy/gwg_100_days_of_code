@@ -240,3 +240,6 @@ Continuing on with the Service Worker lesson. Today I'm learning how to hijack r
 
 ### Day 54 - 8/19 (Sunday)
 Today I took a break from the lessons to work on my own personal website a bit. My site is hosted on GitHub Pages, domain registered through Google Domains and SSL provided from CloudFlare. So I'm working on creating documentation for how to setup the site this way. Also, hoping to move over to Let's Encrypt instead of CloudFlare soon.
+
+### Day 55 - 8/20 (Manic Monday)
+Continuing on with Service Worker and the Wittr app. Making sure the SW can reload all the CSS by killing off the old SW. Tomorrow, will attempt to add UX to the update process.

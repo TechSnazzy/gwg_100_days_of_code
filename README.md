@@ -243,3 +243,6 @@ Today I took a break from the lessons to work on my own personal website a bit. 
 
 ### Day 55 - 8/20 (Manic Monday)
 Continuing on with Service Worker and the Wittr app. Making sure the SW can reload all the CSS by killing off the old SW. Tomorrow, will attempt to add UX to the update process.
+
+### Day 56 - 8/21 (Tenacious Tuesday)
+Rough day,... Left work late, traffic was bad, no electricity in half my apartment complex, elevators don't work either, AT&T TV and Internet service is out and the odds are all stacked against me getting any code done today. But yet, I got my code done today. Hot spot my iPhone to my computer and back in business. So in my attempt to complete the Service Worker lesson, today I added UX to the update process of the Wittr app. I did not complete the lesson yet but I did learn even more about Service Workers today.

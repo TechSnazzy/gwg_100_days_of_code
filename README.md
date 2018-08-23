@@ -246,3 +246,6 @@ Continuing on with Service Worker and the Wittr app. Making sure the SW can relo
 
 ### Day 56 - 8/21 (Tenacious Tuesday)
 Rough day,... Left work late, traffic was bad, no electricity in half my apartment complex, elevators don't work either, AT&T TV and Internet service is out and the odds are all stacked against me getting any code done today. But yet, I got my code done today. Hot spot my iPhone to my computer and back in business. So in my attempt to complete the Service Worker lesson, today I added UX to the update process of the Wittr app. I did not complete the lesson yet but I did learn even more about Service Workers today.
+
+### Day 57 - 8/22 (Wednesday)
+Finally got the Service Worker lesson done and now I'm starting on the Project 5: Restaurant Reviews. This seems like it will be fun. I will need to brush up on FlexBox and ARIA and much more. So far I have everything setup and my Google Maps API key in place and good to go. Let the fun begin!

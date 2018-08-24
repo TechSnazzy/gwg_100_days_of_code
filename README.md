@@ -249,3 +249,6 @@ Rough day,... Left work late, traffic was bad, no electricity in half my apartme
 
 ### Day 57 - 8/22 (Wednesday)
 Finally got the Service Worker lesson done and now I'm starting on the Project 5: Restaurant Reviews. This seems like it will be fun. I will need to brush up on FlexBox and ARIA and much more. So far I have everything setup and my Google Maps API key in place and good to go. Let the fun begin!
+
+### Day 58 - 8/23 (Thursday)
+Spent a good amount of time playing around with Flexbox and ARIA. Mostly Flexbox though. Trying to brush up so I can make the Restaurant Reviews app responsive and accessible. Been spending so much time with JS and other things, I need to brush up the HTML/CSS stuff.

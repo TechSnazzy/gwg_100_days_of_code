@@ -252,3 +252,6 @@ Finally got the Service Worker lesson done and now I'm starting on the Project 5
 
 ### Day 58 - 8/23 (Thursday)
 Spent a good amount of time playing around with Flexbox and ARIA. Mostly Flexbox though. Trying to brush up so I can make the Restaurant Reviews app responsive and accessible. Been spending so much time with JS and other things, I need to brush up the HTML/CSS stuff.
+
+### Day 59 - 8/24 (Friday)
+In preparing for project 5, I had a bit of a mixed bag of stuff today. Doing more practice with Flexbox and ARIA. Also doing more practice with Git to expand the commands I know and writing tons of documentation so I don't forget things.

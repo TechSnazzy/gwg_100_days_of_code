@@ -255,3 +255,6 @@ Spent a good amount of time playing around with Flexbox and ARIA. Mostly Flexbox
 
 ### Day 59 - 8/24 (Friday)
 In preparing for project 5, I had a bit of a mixed bag of stuff today. Doing more practice with Flexbox and ARIA. Also doing more practice with Git to expand the commands I know and writing tons of documentation so I don't forget things.
+
+### Day 60 - 8/25 (Saturday)
+Have you ever had one of those days where you worked all day and didn’t get very far? You code and create and learn and try something and on and on and as you go you start to make progress but then all of a sudden nothing is working -- so you close it all down and start over and realize that you’ve been overthinking everything and it’s all actually very simple. Anyway, that has been me working on Project 5 all day. I don’t have much to show yet (as I’ve created and scrapped my project several times over today) but I think I finally am getting it and now I know what I need to do. So here’s me starting over after working all day on this and here’s what I have so far. I have a page, that is served by Python and uses MapBox. Tomorrow I will make it responsive and accessible. I am determined!

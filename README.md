@@ -264,3 +264,6 @@ Working all morning on Project 5. I think this is starting to make a lot more se
 
 ### Day 62 - 8/27 (Monday)
 Thankfully I had taken today off so I was able to spend all day working on Project 5. This has to be the most difficult one so far only because there are so many parts to this one. I think I have it mostly responsive (although there are definitely some questionable areas) and accessibility is there a little bit but at least the Service Worker is working. So I just submitted it to see what they would say. I'm almost positive this will be sent back to me.
+
+### Day 63 - 8/28 (Tuesday)
+Received my project back with some comments. So tonight I went through each item one by one. For example, I left out the alt text for the images. So I have that in there now. Also I had to correct one of the ARIA roles. And finally my `sw.js` file was missing a few things in the fetch area. But, all corrected and now resubmitted. Fingers crossed.

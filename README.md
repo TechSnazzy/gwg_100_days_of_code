@@ -267,3 +267,6 @@ Thankfully I had taken today off so I was able to spend all day working on Proje
 
 ### Day 63 - 8/28 (Tuesday)
 Received my project back with some comments. So tonight I went through each item one by one. For example, I left out the alt text for the images. So I have that in there now. Also I had to correct one of the ARIA roles. And finally my `sw.js` file was missing a few things in the fetch area. But, all corrected and now resubmitted. Fingers crossed.
+
+### Day 64 - 8/29 (Wednesday)
+Well, you win some you lose some. Submitted project 5, got it back with things to fix. Submitted it again, returned with more things to fix. Anyway, worked all night on this and now I think I'm worse off than before the first time I submitted it. Ugh. Tomorrow is a new day. Try again tomorrow.

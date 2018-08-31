@@ -270,3 +270,6 @@ Received my project back with some comments. So tonight I went through each item
 
 ### Day 64 - 8/29 (Wednesday)
 Well, you win some you lose some. Submitted project 5, got it back with things to fix. Submitted it again, returned with more things to fix. Anyway, worked all night on this and now I think I'm worse off than before the first time I submitted it. Ugh. Tomorrow is a new day. Try again tomorrow.
+
+### Day 65 - 8/30 (Thursday)
+Continuing on with Project 5 tonight. Going through the CSS one little bit at a time. This is definitely a good lesson in how CSS works.

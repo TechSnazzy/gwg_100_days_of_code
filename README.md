@@ -273,3 +273,6 @@ Well, you win some you lose some. Submitted project 5, got it back with things t
 
 ### Day 65 - 8/30 (Thursday)
 Continuing on with Project 5 tonight. Going through the CSS one little bit at a time. This is definitely a good lesson in how CSS works.
+
+### Day 66 - 8/31 (Friday)
+Continued working on Project 5. Kinda stuck trying to figure out why the descriptive alternate text works on the `index.html` page but not the `restaurant.html` page. Didn't get a whole lot of time to work on it today but the good news is that I have all day tomorrow dedicated to finishing this. I will do this. The mission for tomorrow: Wake up, get to work and get this project finished or die trying.

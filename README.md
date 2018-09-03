@@ -278,4 +278,7 @@ Continuing on with Project 5 tonight. Going through the CSS one little bit at a 
 Continued working on Project 5. Kinda stuck trying to figure out why the descriptive alternate text works on the `index.html` page but not the `restaurant.html` page. Didn't get a whole lot of time to work on it today but the good news is that I have all day tomorrow dedicated to finishing this. I will do this. The mission for tomorrow: Wake up, get to work and get this project finished or die trying.
 
 ### Day 67 - 9/1 (Saturday)
-D67: After working all day on this (well, technically all week and 2 other prior submissions) I finally finally finally passed Project 5. Wow! Can’t even describe how happy I am right now. Geez, that was rough! But now, finally onward to React! Looking forward to it.
+After working all day on this (well, technically all week and 2 other prior submissions) I finally finally finally passed Project 5. Wow! Can’t even describe how happy I am right now. Geez, that was rough! But now, finally onward to React! Looking forward to it.
+
+### Day 68 - 9/2 (Sunday)
+Finally starting React. Learning about the difference between Imperative code and Declarative code.

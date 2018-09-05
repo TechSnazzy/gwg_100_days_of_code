@@ -285,3 +285,6 @@ Finally starting React. Learning about the difference between Imperative code an
 
 ### Day 69 - 9/3 (Labor Day)
 Today marks the end of the 3 day holiday weekend. Saturday I finished Project 5 and yesterday I got my feet we with React and today I started to dive in. Learning how to use React.createElement(). This is amazing. Create a root element in the HTML and then everything hooks onto that. You can nest your elements and chain arrays to .map() and .filter() to create new arrays. Good times!
+
+### Day 70 - 9/4 (Tuesday)
+Scaffolded the heck out of my first React app. I'm Yarn Start'ing, and NPM'ing and dev server'ing much more. This is what I call, "Fun!"

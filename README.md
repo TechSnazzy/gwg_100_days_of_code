@@ -288,3 +288,6 @@ Today marks the end of the 3 day holiday weekend. Saturday I finished Project 5 
 
 ### Day 70 - 9/4 (Tuesday)
 Scaffolded the heck out of my first React app. I'm Yarn Start'ing, and NPM'ing and dev server'ing much more. This is what I call, "Fun!"
+
+### Day 71 - 9/5 (Wednesday)
+My Mac mini is getting a workout. Running 2 servers (one for the backend and one for the front end) and builing out the Contacts List app. So far I am learning how to pass data using props. Might have to go over this lesson again. That was a lot of info.

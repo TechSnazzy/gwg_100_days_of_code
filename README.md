@@ -291,3 +291,6 @@ Scaffolded the heck out of my first React app. I'm Yarn Start'ing, and NPM'ing a
 
 ### Day 71 - 9/5 (Wednesday)
 My Mac mini is getting a workout. Running 2 servers (one for the backend and one for the front end) and building out the Contacts List app. So far I am learning how to pass data using props. Might have to go over this lesson again. That was a lot of info.
+
+### Day 72 - 9/6 (Thursday)
+Decided to start Project 6 today (the MyReads app). I figure I will go through the lessons and start thinking about how the things I learn will get applied to the project. Previously, I would go through all the lessons and then hit the project. So trying something different this time.

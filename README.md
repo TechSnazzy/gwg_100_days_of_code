@@ -294,3 +294,6 @@ My Mac mini is getting a workout. Running 2 servers (one for the backend and one
 
 ### Day 72 - 9/6 (Thursday)
 Decided to start Project 6 today (the MyReads app). I figure I will go through the lessons and start thinking about how the things I learn will get applied to the project. Previously, I would go through all the lessons and then hit the project. So trying something different this time.
+
+### Day 73 - 9/7 (Friday)
+Studying React components today. I discovered that this is easy to play around with in CodeSandBox. So I got my account up and running and going through Tyler McGinnis [React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)

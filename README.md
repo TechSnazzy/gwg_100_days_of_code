@@ -297,3 +297,6 @@ Decided to start Project 6 today (the MyReads app). I figure I will go through t
 
 ### Day 73 - 9/7 (Friday)
 Studying React components today. I discovered that this is easy to play around with in CodeSandBox. So I got my account up and running and going through Tyler McGinnis [React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+
+### Day 74 - 9/8 (Saturday)
+Pretty much spent the entire day on Lesson 3 in React (State Management). My brain is officially melted. I learned almost everything except I need a bit more on Controlled Components. That's for tomorrow.

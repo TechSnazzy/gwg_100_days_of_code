@@ -300,3 +300,6 @@ Studying React components today. I discovered that this is easy to play around w
 
 ### Day 74 - 9/8 (Saturday)
 Pretty much spent the entire day on Lesson 3 in React (State Management). My brain is officially melted. I learned almost everything except I need a bit more on Controlled Components. That's for tomorrow.
+
+### Day 75 - 9/9 (Sunday)
+Today's day of code is all about learning how to render UI with external data in React.

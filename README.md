@@ -303,3 +303,6 @@ Pretty much spent the entire day on Lesson 3 in React (State Management). My bra
 
 ### Day 75 - 9/9 (Sunday)
 Today's day of code is all about learning how to render UI with external data in React.
+
+### Day 76 - 9/10 (Monday)
+Chugging along with Project 6. This is a tough one but I'm learning a lot.

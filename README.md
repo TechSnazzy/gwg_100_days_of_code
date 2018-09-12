@@ -306,3 +306,6 @@ Today's day of code is all about learning how to render UI with external data in
 
 ### Day 76 - 9/10 (Monday)
 Chugging along with Project 6. This is a tough one but I'm learning a lot.
+
+### Day 77 - 9/11 (Tuesday)
+And more Project 6 today. So far I have removed all the hard coding and now have the books showing on the page. This is a difficult project. So many pieces that all work together. Hard to keep track of everything.

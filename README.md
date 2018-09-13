@@ -309,3 +309,6 @@ Chugging along with Project 6. This is a tough one but I'm learning a lot.
 
 ### Day 77 - 9/11 (Tuesday)
 And more Project 6 today. So far I have removed all the hard coding and now have the books showing on the page. This is a difficult project. So many pieces that all work together. Hard to keep track of everything.
+
+### Day 78 - 9/12 (Wednesday)
+Still working on Project 6. Today I have the books showing, I can switch between Currently Reading, Want to Read and Read. So when I select one of those options, the book will move to the correct book shelf. Amazing!

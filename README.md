@@ -312,3 +312,6 @@ And more Project 6 today. So far I have removed all the hard coding and now have
 
 ### Day 78 - 9/12 (Wednesday)
 Still working on Project 6. Today I have the books showing, I can switch between Currently Reading, Want to Read and Read. So when I select one of those options, the book will move to the correct book shelf. Amazing!
+
+### Day 79 - 9/13 (Thursday)
+Pressing on with Project 6. Today I got the input field working and now I can search for books and it handles errors if there are no books to be found.

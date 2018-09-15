@@ -315,3 +315,6 @@ Still working on Project 6. Today I have the books showing, I can switch between
 
 ### Day 79 - 9/13 (Thursday)
 Pressing on with Project 6. Today I got the input field working and now I can search for books and it handles errors if there are no books to be found.
+
+### Day 80 - 9/14 (Friday)
+Today I broke away from Project 6 and decided to spend some time on ReacJS.org in the Main Concepts area. When I first started studying this page I looked it and went, "Duh!" But now things are actually making sense. I'm kinda starting to "get it". Feels good to start to "get" React.

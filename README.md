@@ -318,3 +318,6 @@ Pressing on with Project 6. Today I got the input field working and now I can se
 
 ### Day 80 - 9/14 (Friday)
 Today I broke away from Project 6 and decided to spend some time on ReacJS.org in the Main Concepts area. When I first started studying this page I looked it and went, "Duh!" But now things are actually making sense. I'm kinda starting to "get it". Feels good to start to "get" React.
+
+### Day 81 - 9/15 (Saturday)
+Didn't get much done today with Project 6 but I did spend some time on ReactJS.org again. Working through State and Lifecycle. I think it's very important to learn this in order to get good with React.

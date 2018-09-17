@@ -321,3 +321,6 @@ Today I broke away from Project 6 and decided to spend some time on ReacJS.org i
 
 ### Day 81 - 9/15 (Saturday)
 Didn't get much done today with Project 6 but I did spend some time on ReactJS.org again. Working through State and Lifecycle. I think it's very important to learn this in order to get good with React.
+
+### Day 82 - 9/16 (Sunday)
+Another weekend, gone in the blink of an eye. I worked on Project 6 once again today. I believe it is about 95% complete and actually I could probably submit it now. But I'm going to spend more time on it tomorrow to make sure everything is all set.

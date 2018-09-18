@@ -324,3 +324,6 @@ Didn't get much done today with Project 6 but I did spend some time on ReactJS.o
 
 ### Day 82 - 9/16 (Sunday)
 Another weekend, gone in the blink of an eye. I worked on Project 6 once again today. I believe it is about 95% complete and actually I could probably submit it now. But I'm going to spend more time on it tomorrow to make sure everything is all set.
+
+### Day 83 - 9/17 (Monday)
+Working on the README file for Project 6. So I'm writing instructions for usage, installation, etc. And including resources and other information.

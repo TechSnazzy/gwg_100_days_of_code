@@ -327,3 +327,8 @@ Another weekend, gone in the blink of an eye. I worked on Project 6 once again t
 
 ### Day 83 - 9/17 (Monday)
 Working on the README file for Project 6. So I'm writing instructions for usage, installation, etc. And including resources and other information.
+
+### Day 84 - 9/18 (Tuesday)
+Some days are up and others are down. Today is definitely an Up day. I had submitted P6 yesterday.
+* Bad News: It didn't pass.
+* Good news: I got some excellent, amazing feedback that I implemented and learned from and now it works great. For example, I chained the items in `moveShelf` using a `.then()` so that the books actually moved to the correct shelf, reliably, every time. I also implemented `debounce` on the `SearchPage` input. Both worked like magic. So I'll submit again. If there's more comments, then great. Just more stuff to learn. Pretty awesome.

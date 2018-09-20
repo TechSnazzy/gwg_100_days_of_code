@@ -332,3 +332,6 @@ Working on the README file for Project 6. So I'm writing instructions for usage,
 Some days are up and others are down. Today is definitely an Up day. I had submitted P6 yesterday.
 * Bad News: It didn't pass.
 * Good news: I got some excellent, amazing feedback that I implemented and learned from and now it works great. For example, I chained the items in `moveShelf` using a `.then()` so that the books actually moved to the correct shelf, reliably, every time. I also implemented `debounce` on the `SearchPage` input. Both worked like magic. So I'll submit again. If there's more comments, then great. Just more stuff to learn. Pretty awesome.
+
+### Day 85 - 9/18 (Tuesday)
+Another good news/bad news day. The good news is that I passed Project 6. Now all I have to do is finish the lessons and then hopefully complete Project 7. The bad news is that tonight I tried to make the MyReads app work on GitHub pages but I failed so far. Maybe I'll try again over the weekend. I can't get it to work.

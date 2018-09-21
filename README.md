@@ -338,3 +338,6 @@ Another good news/bad news day. The good news is that I passed Project 6. Now al
 
 ### Day 86 - 9/19 (Thursday)
 And here we go, starting Project 7 today. I didn't actually do that much writing of code today though. I'm spending most of my time reading the requirements and starting to think about what I want to do and getting a good understanding of the project and the resources I have to work with. This will be fun, yet scary since I've never done a project without starter code. Fun!
+
+### Day 87 - 9/20 (Friday)
+Today I am trying to start learning about Google Maps API. I was thinking of maybe using MapBox or something else but I think I will be using Google Maps for Project 7.

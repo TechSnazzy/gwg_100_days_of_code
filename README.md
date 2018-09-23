@@ -333,11 +333,14 @@ Some days are up and others are down. Today is definitely an Up day. I had submi
 * Bad News: It didn't pass.
 * Good news: I got some excellent, amazing feedback that I implemented and learned from and now it works great. For example, I chained the items in `moveShelf` using a `.then()` so that the books actually moved to the correct shelf, reliably, every time. I also implemented `debounce` on the `SearchPage` input. Both worked like magic. So I'll submit again. If there's more comments, then great. Just more stuff to learn. Pretty awesome.
 
-### Day 85 - 9/18 (Wednesday)
+### Day 85 - 9/19 (Wednesday)
 Another good news/bad news day. The good news is that I passed Project 6. Now all I have to do is finish the lessons and then hopefully complete Project 7. The bad news is that tonight I tried to make the MyReads app work on GitHub pages but I failed so far. Maybe I'll try again over the weekend. I can't get it to work.
 
-### Day 86 - 9/19 (Thursday)
+### Day 86 - 9/20 (Thursday)
 And here we go, starting Project 7 today. I didn't actually do that much writing of code today though. I'm spending most of my time reading the requirements and starting to think about what I want to do and getting a good understanding of the project and the resources I have to work with. This will be fun, yet scary since I've never done a project without starter code. Fun!
 
-### Day 87 - 9/20 (Friday)
+### Day 87 - 9/21 (Friday)
 Today I am trying to start learning about Google Maps API. I was thinking of maybe using MapBox or something else but I think I will be using Google Maps for Project 7.
+
+### Day 88 - 9/22 (Saturday)
+Today I'm continuing learning the Google Maps API. I didn't spent too much time on it though but I will get more done tomorrow instead.

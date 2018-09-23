@@ -344,3 +344,6 @@ Today I am trying to start learning about Google Maps API. I was thinking of may
 
 ### Day 88 - 9/22 (Saturday)
 Today I'm continuing learning the Google Maps API. I didn't spent too much time on it though but I will get more done tomorrow instead.
+
+### Day 89 - 9/23 (Sunday)
+Starting to get the hang of this Google Maps API. I got my LatLongs and I'm GeoCoding and Snazzy Mapping and got my markers and Google Street View. This is way more complex than I ever thought. Now just need to figure out how to make this work in React.

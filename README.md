@@ -347,3 +347,6 @@ Today I'm continuing learning the Google Maps API. I didn't spent too much time 
 
 ### Day 89 - 9/23 (Sunday)
 Starting to get the hang of this Google Maps API. I got my LatLongs and I'm GeoCoding and Snazzy Mapping and got my markers and Google Street View. This is way more complex than I ever thought. Now just need to figure out how to make this work in React.
+
+### Day 90 - 9/24 (Monday)
+Ok so I have some progress to report. Project 7 is underway and I do have a map showing on the page now. This is happening and there is hope.

@@ -350,3 +350,6 @@ Starting to get the hang of this Google Maps API. I got my LatLongs and I'm GeoC
 
 ### Day 90 - 9/24 (Monday)
 Ok so I have some progress to report. Project 7 is underway and I do have a map showing on the page now. This is happening and there is hope.
+
+### Day 91 - 9/25 (Tuesday)
+Continued working on Project 7. So far I have a map render to the viewport. It's displaying the markers and fetching the location data using the Foursquare API and Axios. Also I have InfoWindow displaying information about each location.

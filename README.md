@@ -353,3 +353,6 @@ Ok so I have some progress to report. Project 7 is underway and I do have a map 
 
 ### Day 91 - 9/25 (Tuesday)
 Continued working on Project 7. So far I have a map render to the viewport. It's displaying the markers and fetching the location data using the Foursquare API and Axios. Also I have InfoWindow displaying information about each location.
+
+### Day 92 - 9/26 (Wednesday)
+Well, getting down to the end here. Just a little bit more of this #100DaysOfCode left and almost done with the course. Tonight I finished the rest of the API lessons. All that's left is Project 7 -- which I've been working on. I have the Map with markers done. But the map takes up the whole view. So next, I need to make the map fit about half the view and then create an area on the side that will list the location information and have a search input. Not entirely sure how to do that but I will be thinking about it.

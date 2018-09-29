@@ -359,3 +359,6 @@ Well, getting down to the end here. Just a little bit more of this #100DaysOfCod
 
 ### Day 93 - 9/27 (Thursday)
 Tonight not much actual coding. I seem to know how to make the map and markers but having trouble with everything else. So mainly researching tonight and tomorrow and spend all weekend coding and see if I can make something happen.
+
+### Day 94 - 9/28 (Friday)
+Today I revisited the [Tyler McGinnis React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/). And also studying and trying to figure out all this [super() and super(props) in constructor of a React Class Components](https://medium.com/@etherealm/super-vs-super-props-in-react-class-components-58658af6ecf2) stuff. So mostly studying/brushing up a bit today getting ready for 9 million hours of code this weekend.

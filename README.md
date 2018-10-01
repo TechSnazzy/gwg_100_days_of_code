@@ -461,3 +461,7 @@ Today I revisited the [Tyler McGinnis React Tutorial](https://tylermcginnis.com/
 ### Day 95 - 9/29 (Saturday)
 
 Wow. Marathon Saturday. Been working on learning React all day. It's starting to click more and more. Tomorrow I will start my Project 7 from scratch again. I think I'm starting to feel more comfortable with the React concepts. Like how components work together, props and state, using this for every little thing, clicking, error handling, incrementing. Anyway, part 2 of all weekend coding resumes tomorrow morning bright and early.
+
+### Day 96 - 9/30 (Sunday)
+
+100 Days of Code? More like 100 million hours of code in just this weekend. LOL. Well, my brain is officially fried working on Project 7. Looking forward to being done with this.

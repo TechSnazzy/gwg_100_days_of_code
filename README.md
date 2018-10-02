@@ -465,3 +465,7 @@ Wow. Marathon Saturday. Been working on learning React all day. It's starting to
 ### Day 96 - 9/30 (Sunday)
 
 100 Days of Code? More like 100 million hours of code in just this weekend. LOL. Well, my brain is officially fried working on Project 7. Looking forward to being done with this.
+
+### Day 97 - 10/1 (Monday)
+
+I decided to start my project 7 from scratch yet again. Doing it all differently now. I think I'm starting to understand this more and more now. Been working through learning fundamentals all day today. It's making more and more sense as I do this. This time I'm creating the Map component using `react-google-maps`.

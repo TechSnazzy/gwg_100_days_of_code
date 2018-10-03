@@ -469,3 +469,7 @@ Wow. Marathon Saturday. Been working on learning React all day. It's starting to
 ### Day 97 - 10/1 (Monday)
 
 I decided to start my project 7 from scratch yet again. Doing it all differently now. I think I'm starting to understand this more and more now. Been working through learning fundamentals all day today. It's making more and more sense as I do this. This time I'm creating the Map component using `react-google-maps`.
+
+### Day 98 - 10/2 (Tuesday)
+
+I continue working on Project 7 as I inch my way towards the finish line. I have a map with a marker in my React app using `react-google-maps`. I also have a list of locations showing for the first time. I discovered the `react-foursquare` npm package and it works great. Pretty nice. Now I just need to figure out how to filter this list. Anyway, the struggle is very real.

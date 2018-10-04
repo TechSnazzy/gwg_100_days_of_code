@@ -473,3 +473,7 @@ I decided to start my project 7 from scratch yet again. Doing it all differently
 ### Day 98 - 10/2 (Tuesday)
 
 I continue working on Project 7 as I inch my way towards the finish line. I have a map with a marker in my React app using `react-google-maps`. I also have a list of locations showing for the first time. I discovered the `react-foursquare` npm package and it works great. Pretty nice. Now I just need to figure out how to filter this list. Anyway, the struggle is very real.
+
+### Day 99 - 10/3 (Wednesday)
+
+Part of me was hoping I could end this 100 days of code by finishing project 7. But nope, not even close. Anyway, just going back over lessons tonight. This might sound grim but I actually am making progress. I believe I can do this. It will happen. Just have to keep on codin' and Reactin'.

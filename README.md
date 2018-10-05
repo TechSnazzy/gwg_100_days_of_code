@@ -477,3 +477,7 @@ I continue working on Project 7 as I inch my way towards the finish line. I have
 ### Day 99 - 10/3 (Wednesday)
 
 Part of me was hoping I could end this 100 days of code by finishing project 7. But nope, not even close. Anyway, just going back over lessons tonight. This might sound grim but I actually am making progress. I believe I can do this. It will happen. Just have to keep on codin' and Reactin'.
+
+### Day 100 - 10/4 (Thursday)
+
+Wow, 100 straight days of writing code. Now that's something. Lucky for me, I had today off from work so I spent most of the day working through project 7. And I'll probably be spending the entire weekend on it. I've only spent at least **8 million hours** on it at this point. The good news is that I think I'm heading towards a complete project finally. Almost done. I was hoping I could submit it for my last day of #100DaysOfCode but I'm not quite there yet. However, things are coming along and maybe with any luck I can submit over the weekend. Good luck to me!
